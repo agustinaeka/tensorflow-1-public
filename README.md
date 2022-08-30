@@ -42,7 +42,7 @@ Below is the list of assignments and ungraded labs course-wise.
 
 - Handling Complex Images _(C1_W4_Assignment.ipynb)_
 
-### Ungraded Labs
+### Ungraded Labsssss
 
 1. Image Generator _(C1_W4_Lab_1_image_generator_no_validation.ipynb)_
 2. Image Generator with Validation _(C1_W4_Lab_2_image_generator_with_validation.ipynb)_
